@@ -12,7 +12,7 @@ This theme does:
 
 Preview: 
 
-  ![alt text](https://github.com/ben4ali/Zen-Compact-Bookmarks/blob/main/Sample.png)
+  ![alt text](https://github.com/ben4ali/Zen-Minimarks/blob/main/Sample.png)
 
 ## License
 This project is licensed under the MIT License.
